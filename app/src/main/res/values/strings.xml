@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NetguruCities</string>
+    <string name="splash_title">Netguru Cities</string>
+    <string name="splash_icon_alternative">The Great Cities</string>
+</resources>
