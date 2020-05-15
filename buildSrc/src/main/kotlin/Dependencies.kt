@@ -71,7 +71,6 @@ fun DependencyHandler.material() {
 fun DependencyHandler.unitTests() {
     testImplementation("androidx.arch.core:core-testing:2.0.0")
     testImplementation("androidx.test.ext:junit:1.1.0")
-    testImplementation("org.mockito:mockito-core:2.24.5")
     testImplementation("io.mockk:mockk:1.8.13")
 
     testImplementation("junit:junit:4.12")
